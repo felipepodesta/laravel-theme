@@ -96,7 +96,7 @@ Bug reports, feature requests, and pull requests are very welcome.
 
 The MIT License (MIT). Please see [License File](license.md) for more information.
 
-(c) 2017 Freela Certo, Some rights reserved.
+(c) 2004-2017 Felipe Podestá, Some rights reserved.
 
 [author]: <https://felipepodesta.com.br>
 [twitter]: <https://twitter.com/felipepodesta>
